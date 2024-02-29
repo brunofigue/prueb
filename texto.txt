@@ -1,1 +1,2 @@
-se agrego archivo nuevo. 
+se modifica el archivo desde vsc "texto.txt"
+a nombre de brunofigue
