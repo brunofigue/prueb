@@ -1,2 +1,4 @@
 se modifica el archivo desde vsc "texto.txt"
 a nombre de brunofigue
+
+vericar si se cambia en github
